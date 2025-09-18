@@ -31,3 +31,11 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/diabetes-prediction.git
 cd diabetes-prediction
 pip install -r requirements.txt
+
+## Outputs
+### Model Training Output
+![Terminal Output](./terminal_output.png)
+
+### Confusion Matrix
+![Confusion Matrix](./confusion_matrix.png)
+
